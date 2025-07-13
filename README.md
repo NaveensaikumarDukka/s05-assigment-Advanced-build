@@ -46,20 +46,20 @@ Before running this application, you'll need:
 1. **Node.js** (v18 or higher)
 2. **npm** or **yarn**
 3. **API Keys** for the following services:
-   - OpenAI API Key
-   - Tavily API Key
+  - OpenAI API Key
+  - Tavily API Key
    - LangSmith API Key
 
 ## Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd financial-research-agent
-   ```
+```bash
+git clone <repository-url>
+cd financial-research-agent
+```
 
 2. **Install dependencies**
-   ```bash
+```bash
    npm install
    ```
 
@@ -72,9 +72,9 @@ Before running this application, you'll need:
    ```
 
 4. **Run the development server**
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
