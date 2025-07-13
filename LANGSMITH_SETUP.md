@@ -17,7 +17,7 @@ Create a `.env.local` file in your project root with the following configuration
 # LangSmith Configuration
 LANGSMITH_TRACING=true
 LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
-LANGSMITH_API_KEY="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"
+LANGSMITH_API_KEY=""
 LANGSMITH_PROJECT="financial-research-agent"
 
 # OpenAI Configuration
